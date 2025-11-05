@@ -1,0 +1,17 @@
+# sbt specific
+target/
+project/target/
+project/project/
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+
+# IDE specific
+.idea/
+.vscode/
+*.iml
+
+# OS specific
+.DS_Store
+Thumbs.db
